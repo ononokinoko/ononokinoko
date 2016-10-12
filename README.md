@@ -1,2 +1,11 @@
-# ononokinoko
 ononokinoko
+===========
+
+ononokinoko
+
+
+License
+-------
+
+MIT License
+
